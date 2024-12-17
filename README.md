@@ -1,4 +1,4 @@
-# ADA Template Website
+# Historical and sociocultural analysis of film genre trends: Impact of world events and box office successes
 ## Usage
 1. Fork (copy) this repository by clicking the "Fork" button on the top right corner.
 2. Go to "Settings" -> "Pages" in your forked repository. Under "Branch" change "None" to "master" and click "Save".
