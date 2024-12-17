@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Historical and sociocultural analysis of film genre trends, Impact of world events and box office successes
-description: Data Story for the project: historical evolution of film genres, analyzing how societal and historical contexts have influenced trends in cinema
+title: "Historical and sociocultural analysis of film genre trends: Impact of world events and box office successes"
+description: "Data Story for the project: historical evolution of film genres, analyzing how societal and historical contexts have influenced trends in cinema"
 show_downloads: True
 navigation:
   - title: Home
