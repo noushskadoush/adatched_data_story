@@ -1,3 +1,6 @@
+---
+layout: banner
+---
 # Historical and sociocultural analysis of film genre trends
 ## Impact of world events and box office successes
 ## Usage
