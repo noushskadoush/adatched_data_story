@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: page
+title: Historical and Sociocultural Analysis of Film Genre Trends
+feature-img: feature-image.jpg
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
