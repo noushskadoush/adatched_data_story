@@ -2,6 +2,13 @@
 layout: page
 title: Historical and Sociocultural Analysis of Film Genre Trends
 feature-img: feature-image.jpg
+anchors:
+  - title: I love pizza!
+    url: '#i-love-pizza'
+  - title: Chatper 2
+    url: '#header-2'
+  - title: Chapter 3
+    url: '#header-3'
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -13,6 +20,10 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
+
+Omf!
+
+# I love pizza!
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
