@@ -1,4 +1,5 @@
-theme: jekyll-theme-yat
+#theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 title: Historical and sociocultural analysis of film genre trends
 description: Data Story for the project
 show_downloads: true
