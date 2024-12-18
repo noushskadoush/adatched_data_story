@@ -1,8 +1,8 @@
-title: 🎥 Data Story for the Project
+title: 🎥  Trends in Cinema
 description: Data Story for the Project
 plugins:
   - jekyll-remote-theme
 remote_theme: Sylhare/Type-on-Strap
 post_navigation: false
-header_text: Historical and Sociocultural Analysis of Film Genre Trends
-color_theme: dark
+header_text: From War Zones to Box Office
+color_theme: light
