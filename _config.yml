@@ -1,8 +1,9 @@
-title: 🎥  Trends in Cinema
+title: 🎥   Trends in Cinema
 description: Data Story for the Project
 plugins:
   - jekyll-remote-theme
 remote_theme: Sylhare/Type-on-Strap
 post_navigation: false
-header_text: From War Zones to Box Office
+# Also change in index.md!
+header_text: From War Zones to Box Office, How History and Culture Shape Film Genre Trends
 color_theme: light

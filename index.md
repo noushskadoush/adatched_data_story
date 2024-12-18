@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Historical and Sociocultural Analysis of Film Genre Trends
+title: "From War Zones to Box Office: <br> How History and Culture Shape Film Genre Trends"
 feature-img: feature-image.jpg
 anchors:
   - title: I love pizza!
@@ -10,6 +10,36 @@ anchors:
   - title: Chapter 3
     url: '#header-3'
 ---
+
+## Introduction
+
+Cinema, though a relatively young art form, has been profoundly shaped by the ebb and flow of historical and sociological events. Could the thematic evolution of cinematography serve as a mirror reflecting significant moments in history? How do major events shape cinematic trends? Which genres rise or fall in popularity during times of war or societal upheaval? Do action and drama films take center stage, or do audiences gravitate toward escapist comedies during turbulent times?
+
+Join us on this analytical adventure as we explore how pivotal societal events have influenced cinematic trends and shaped the popularity of different genres. Along the way, we might uncover clues about the next box-office hits inspired by breaking news—or even help you decide what movie to catch on your next date.😉
+
+## Historical Events and Movie Distributions
+
+## History’s Impact on Cinema: Fleeting Trends or Lasting Legacies?
+
+## ???
+
+## Conclusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
