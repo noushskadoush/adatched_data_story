@@ -72,12 +72,12 @@ Let us continue our historical analysis and cross-reference with variations in t
 
 Narrowing our focus to specific types of films through targeted case studies allows for more concrete insights and clearer conclusions. By examining these case studies, we can assess the influence on cinematic trends, determining whether this impact is periodic and short-lived or contributes to a sustained, long-term effect.
 
-There are different types of events we can look into.
+There are different types of events we can look into:
 * [Major historical events](#major-historical-events), at a specific time, which have a resnonating impact on society
-* Technological advancements, which usher great changes in the industry, such as advancements in visual effects, sound, and cinematography, which bring clear impacts on filmmaking trends
-* Commercially successful hits, that may set new standards or inspire a wave of similar films
-* Globalization and the political and economical openings towards other cultures
-* Rise in cultural movements which reflect societal changes and may shape themes and narratives depicted in movies.
+* [Technological advancements](#technological-advacements), which usher great changes in the industry, such as advancements in visual effects, sound, and cinematography, which bring clear impacts on filmmaking trends
+* [Commercially successful hits](#commercial-success-hits), that may set new standards or inspire a wave of similar films
+* [Rise in cultural movements](#cultural-movements-and-their-impact) which reflect societal changes and may shape themes and narratives depicted in movies
+* [Globalization](#globalization-and-integration-policies) and the political and economical openings towards other cultures
 
 Because these "timepoints" are quite different in nature, surely they will reflect differing impacts on the cinema industry, and this is what we want to establish.
 
@@ -85,35 +85,35 @@ Because these "timepoints" are quite different in nature, surely they will refle
 
 Lets delve into the historical events. We have a list of major events, and pairing them with a type of movie, we will test whether they lead to gradual sustained effect, or spikes in genre production.
 
-1. [War Movies/ World War II](#war-movies-and-world-war-ii)
+1. [War Movies/ World War II](#-war-movies-and-world-war-ii)
 
-2. [Propaganda movies/ World War II](#propaganda-movies-during-world-war-ii)
+2. [Propaganda movies/ World War II](#-propaganda-movies-during-world-war-ii)
 
-3. [Film Noir/ World War II](#film-noir-and-world-war-ii)
+3. [Film Noir/ World War II](#-film-noir-and-world-war-ii)
 
-4. [Rise of Musicals/ Great Depression](#musicals-during-the-great-depression)
+4. [Rise of Musicals/ Great Depression](#-musicals-during-the-great-depression)
 
-5. [Political films/ Watergate scandal](#political-films-and-watergate-scandal)
+5. [Political films/ Watergate scandal](#-political-films-and-watergate-scandal)
 
-6. [Spy Movies/ Cuban Missile Crisis](#spy-movies-and-the-cuban-missile-crisis)
+6. [Spy Movies/ Cuban Missile Crisis](#-spy-movies-and-the-cuban-missile-crisis)
 
-7. [Creature Movies/ Atomic Bomb](#creature-movies-and-the-atomic-bomb)
+7. [Creature Movies/ Atomic Bomb](#-creature-movies-and-the-atomic-bomb)
 
-8. [Crime Movies/ Prohibition in USA](#crime-movies-and-prohibition)
+8. [Crime Movies/ Prohibition in USA](#-crime-movies-and-prohibition)
 
-9. [Melodramas/ World War I](#melodramas-after-world-war-ii)
+9. [Melodramas/ World War I](#-melodramas-after-world-war-ii)
 
 Each time, we will verify if the event has a statistically significant influence on our observations. We can perhaps event try to fit a model, in the case when we would want to predict the behavior of genre releases in the future. This is something I am sure could come in handy for a film-writer such as you. 
 
-### War Movies and World War II
-### Propaganda movies during World War II
-### Film Noir and World War II
-### Musicals during The Great Depression
-### Political Films and Watergate Scandal
-### Spy Movies and The Cuban Missile Crisis
-### Creature Movies and the Atomic Bomb
-### Crime Movies and Prohibition
-### Melodramas after World War II
+### 🪖 War Movies and World War II
+### 🔰 Propaganda movies during World War II
+### 🎩 Film Noir and World War II
+### 🎶 Musicals during The Great Depression
+### 🏅 Political Films and Watergate Scandal
+### 🕵️‍♂️ Spy Movies and The Cuban Missile Crisis
+### 🦖 Creature Movies and the Atomic Bomb
+### 🔪 Crime Movies and Prohibition
+### 🎻 Melodramas after World War II
 
 To conclude on the impact of these events on the overall behavior of genres...
 
@@ -121,22 +121,54 @@ To conclude on the impact of these events on the overall behavior of genres...
 
 Now lets take a look at technological breakthroughs which bring about  changes in the industry. Advancements in visual effects, sound, and camera systems will surely influence movie releases right? I'm sure more than one director decided to shoot a Documentary just to try out his fancy new drone. Here's three examples of inventions and advancements we can look into: 
 
-1. [Science Fiction/ Special Effects Advancements](#major-special-effects-advancements-late-1970s-and-science-fiction-movies)
-2. [Black and White Movies/ Technicolor Technique](#technicolor-technique-1916-and-black-and-white-movies)
-3. [Silent Movies/ Sound Technologies](#sound-technologies-1927-and-silent-movies)
+1. [Science Fiction/ Special Effects Advancements](#-major-special-effects-advancements-late-1970s-and-science-fiction-movies)
+2. [Black and White Movies/ Technicolor Technique](#-technicolor-technique-1916-and-black-and-white-movies)
+3. [Silent Movies/ Sound Technologies](#-sound-technologies-1927-and-silent-movies)
 
-### Major special effects advancements (late 1970s) and Science-Fiction Movies
+### 🛸 Major special effects advancements (late 1970s) and Science-Fiction Movies
 
-### Technicolor technique (1916) and Black-and-white Movies
+### 🎨 Technicolor technique (1916) and Black-and-white Movies
 
-### Sound Technologies (1927) and Silent Movies
+### 📢 Sound Technologies (1927) and Silent Movies
+
+## Commercial Success Hits
+
+Big success hits are great sources of inspiration, I'm sure you will agree. How about we see how blockbuster hits catch the attention of other filmmakers and studios eager to replicate their success? One great idea often inspires others to do the same and many hits serve as cinematographical 'touchstones', which define new standards and trends that shape the industry. Lets examine this behavior with our genres and our analysis of trends.
+
+1. [Slasher Movies/ First Slasher Commercial Success](#-slasher-movies)
+2. [Martial Arts Movies/ Bruce Lee Success](#-bruce-lee-and-martial-arts-films)
+
+### 🪓 Slasher Movies
+
+### 🤸🏻‍♂️ Bruce Lee and Martial Arts Films
+
+Our favorite street fighter!
+
+## Cultural movements and their impact
+
+1. [LGBT Movies/ Gay rights movements](#-lgbt-movies-and-gay-rights-movements)
+2. [Western Movies/ Indian Civil Rights Act](#-western-movies-and-indian-civil-rights-act)
+3. [Horror and Teen Movies/ Teen Culture](#-horror-and-teen-movies-and-teen-culture)
+4. [Sex Comedies/ Sexual Revolution](#-sex-comedies-and-sexual-revolution)
+
+### 🏳️‍🌈 LGBT Movies and Gay rights movements
+### 🤠 Western Movies and Indian Civil Rights Act
+### 👻 Horror and Teen Movies and Teen Culture
+### 🍆 Sex Comedies and Sexual Revolution
 
 
+## Globalization and integration policies
+1. [Chinese Movies/ Cultural revolution](#-chinese-movies-cultural-revolution)
+2. [Japanese Movies/ Post WWII occupation](#-japanese-movies-post-wwii-occupation)
+3. [Bollywood/ Indian independance](#-bollywood-indian-independance)
 
+### 🍜 Chinese Movies/ Cultural revolution
+### 🍱 Japanese Movies/ Post WWII occupation
+### 🍛 Bollywood/ Indian independance
 
 # Conclusion
 
-So we've taken you on quite a journey throught time and cinematography. Hopefully this has given you some kind of idea of how the trends in cinema are linked to our current times. Turn on the news! It can give you a starting point to write something, whether it be a unique piece which will stand out of the trends, or something safe that you are sure the current directors will go for because of popular demand. You can come back to this website whenever you need for more ideas and predictions of what the next releases will be. 
+So we've taken you on quite a journey throught time and cinematography. Hopefully this has given you some kind of idea of how the trends in cinema are linked to our current times. Turn on the news! It can give you a starting point to write something, whether it be a unique piece which will stand out of the trends, or something safe that you are sure the current directors will go for because of popular demand. You can come back to this website whenever you need for more ideas and predictions of what the next releases will be. Now you know what to write about if you want to be sure to be in the times. Or what to write to stand out from the flock, but at your own risk! 
 
 
 
