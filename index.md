@@ -43,10 +43,7 @@ Now that we are equipped with the basic tools to begin our analysis, we can get 
 Picking out the most important movie genres, let’s take a first look at the potential correlations between our historical events and their distribution. We are looking for major shifts in the prominence of genres after selected timepoints.
 
 
-
-
 <img src="plot global plot.png" width="100%">
-
 
 
  Some events are followed with more significant changes than others, and already could hint at the possibility of an influence they have to the proportion of genres in movie releases. 
@@ -103,21 +100,23 @@ Lets delve into the historical events. We have a list of major events, and pairi
 
 9. [Rise of Musicals/ Great Depression](#-musicals-during-the-great-depression)
 
-
 Each time, we will verify if the event has a statistically significant influence on our observations. We can perhaps event try to fit a model, in the case when we would want to predict the behavior of genre releases in the future. This is something I am sure could come in handy for a film-writer such as you. 
 
 ### 🪖 War Movies and World War II
 
 Let's kick off our analysis with the most influencial event: World War II. If we look at War-themed movies, we have a significant increase during the 1940s, which aligns with World War II, suggesting that the conflict likely influenced the film industry. Another peak appears around the early 2000s. And this effect does not happen locally: it seems to have been the case in EU just as it has in the USA.
 
-(plot proportion of war movies)
+<img src="plot war proportion.png" width="100%">
 
-We have a clear sharp and temporary increase of war movie production. But before we lose ourselves in all of these assumptions, it is worth checking that this increase is statistically significant. Dont just start writing about wars just yet.
+ The theme of war is much more frequently portrayed from a dramatic rather than a comedic perspective. However, even if WWII had a global impact, experiences vary greatly from one region of the world to another. When comparing this proportion between European countries where war was being fought and, for example, the United States of America (chosen because it is the largest producer of movies worldwide), we see that the war comedic perspective is much more present. This is auite intresting because it expresses the cultural differences in the portrayal of war and we see how differently World War II had an impact on the film industry between the US and the EU.
+
+ So we have a clear sharp and temporary increase of war movie production. But before we lose ourselves in all of these assumptions, it is worth checking that this increase is statistically significant. Dont just start writing about wars just yet.
 
 Fitting a model using R_squared as criteria, we maintain with statistical significance the dinstinct jump in War movie productions during and after the war. While the immediate effect is, once again, clear and confirmed, our model sugests that there is also a lasting influence and effect on this number. 
 
-(plot u model)
+<img src="war model.png" width="100%">
 
+The fitted model shows a distinct jump in the predicted war movie proportions during WWII and a recalibrated level afterward, indicating that the war era fundamentally changed the landscape of war film production.
 Our initial instinct on the sharp short-term success but right, but here we still observe a sustained trend over time, which could be influenced by overall opinion and social movements caused by such event.
 
 ### 🔰 Propaganda movies during World War II
@@ -126,9 +125,9 @@ Again, staying in the theme of World War II, it could be worth looking at the be
 
 > 🤓 _Battle for Norway – Campaign 1940 is a German propaganda film produced by the UFA in 1940 by the High Command of the Wehrmacht. The film was considered lost for a long time. It was not found by the Norwegian film historian Jostein Saakvitne randomly in 2000 in the offer of a militaria online auction house. These were five film rolls with a total weight of 20 kilograms. The film changed the owner anonymously for less than 1000 euros. On the 20th The film first premiered after the war by the film institute Oslo in September 2006. The film was not performed in Germany._
 
-(plot propaganda distribution + model fit)
+<img src="propaganda.png" width="100%">
 
-Statiscal analysis and model fitting of this distribution gives us confirmation that the contribution to the war in Nazi Propaganda movies is clear and brief. This is something we probably could have guessed without too much problem but at least we are mathematically certain of one thing: Don't write a Nazi Propaganda movie. 
+Statistical analysis and model fitting of this distribution gives us confirmation that the contribution to the war in Nazi Propaganda movies is clear and brief. This decline reflects how Propaganda films can be context-dependent and do not sustain beyond the immediate historical moment. This is something we probably could have guessed without too much problem but at least we are mathematically certain of one thing: Don't write a Nazi Propaganda movie. 
 
 ### 🏅 Political Films and Watergate Scandal
 
@@ -136,11 +135,11 @@ We're pretty confient that World War II had an effect on the silver screen by no
 
 > 🤓  _The Watergate scandal was a major political scandal in the 1970s where members of President Nixon's administration were involved in a break-in at the Democratic National Committee headquarters and subsequent cover-up, leading to Nixon's resignation in 1974._
 
-(plot proportion politics, watergate)
+<img src="wg proportions.png" width="100%">
 
 At a first glance the increase in proportion of political films after the scandal is not clear. We can be sure that the event did not lead to any spikes in releases, but could it have lead to contributing to the sustained increase?
 
-(plot modèle moche)
+<img src="ugly model.png" width="100%">
 
 Although we do see a prominent increase in political movies following the Watergate scandal, statistical analysis and fitting of the model tell us that this observed rise is not linked to the political event and it is unlikely that the scandal lead to any sustained change, whether it be only in the US or in the world as a whole. 
 So not all political events have an impact on movie releases. Good to know. Hopefully you still learned something. 
@@ -151,28 +150,20 @@ Another big political event of the Cold War that shook the public opinion in the
 
 > 🤓 _The Cuban Missile Crisis was a tense 13-day standoff in October 1962 between the United States and the Soviet Union over the installation of Soviet nuclear missiles in Cuba, bringing the world to the brink of nuclear war before a peaceful resolution was reached_
 
-(plot cuban missile distribution)
+<img src="cuban proportion.png" width="100%">
 
 We notice a big peak following the Cuban Missile Crisis, a time when people were anxious about the threat of nuclear war. This fear likely made Cold War themes feel more relevant and sparked greater interest in the spy genre during that period.
 
 (plot Cuban)
 
-
 This time the significance is verified! Using a Kernel Density Distribution, we can cofirm that the event caused a greatest rise in political movies two years after the event, which is consistent with the timeframe needed to write, produce and release a movie. 
 Political events *can* have an impact on releases, just not on all of them. Pick your political scandals wisely.  
 
 ### 🦖 Creature Movies and the Atomic Bomb
-
-From our last analysis, fear of nuclear warefare... 
-
-
-
 ### 🔪 Crime Movies and Prohibition
 ### 🎻 Melodramas after World War II
 ### 🎶 Musicals during The Great Depression
 
-
-(### 🎩 Film Noir and World War II)
 
 ## Technological Advacements
 
@@ -212,21 +203,19 @@ To better understand this dynamic, we’ll examine several examples of sociologi
 
 ### 🏳️‍🌈 LGBT Movies and Gay rights movements
 
-LGBTQ+ representation in cinema is likely tied to the long-term social progress of public opinions which is paced by several notable key milestones, such as the First Pride Marches or legal breakthroughs. It is worth noting if these milestones produce sudden spikes in popularity or contribute to the overall rise over time: we see a noticeble growth after the milestones.
+LGBTQ+ representation in cinema is likely tied to the long-term social progress of public opinions which is paced by several notable key milestones, such as the First Pride Marches or legal breakthroughs. It is worth noting if these milestones produce sudden spikes in popularity or contribute to the overall rise over time: we see a noticeble growth after some of the milestones.
 
-(plot distributiin LBTQ)
+<img src="lgbt proportion.png" width="100%">
 
 Statistical analysis and model fitting using OLS regression give us the disappointing conclusion that these keystone events have no real influence on the plot. There is no clear change observed after each event, but you can be sure that the numbers are high and remain high. Regardless of history, LGBTQ+ representation is something that gains in popularity, and you're pretty safe if you choose to do so in your movie.
 
-(plot model lgbtq+)
+<img src="model lgbt.png" width="100%">
 
 ### 🤠 Western Movies and Indian Civil Rights Act
 
-
-
 ## Globalization and integration policies
 
-
+Globalization has profoundly influenced the film industry, not only through technological advancements that facilitate global distribution but also by fostering cultural exchange and integration. The political and economic opening of nations drices filmmakers to tap into diverse markets, audiences, and narratives, resulting in noticeable shifts in the proportion of genres in movie releases. We can look at three examples of such changes in trends.
 
 1. [Chinese Movies/ Cultural revolution](#-chinese-movies-cultural-revolution)
 2. [Japanese Movies/ Post WWII occupation](#-japanese-movies-post-wwii-occupation)
@@ -238,163 +227,6 @@ Statistical analysis and model fitting using OLS regression give us the disappoi
 
 # Conclusion
 
+Theres no clear and precise answer on how history influences movie releases: results are quite variable and depend in very case. Sometimes they usher a spike or a drastic and rapid behavior. Sometimes they contribute to a longer temporal trend. 
+
 So we've taken you on quite a journey throught time and cinematography. Hopefully this has given you some kind of idea of how the trends in cinema are linked to our current times. Turn on the news! It can give you a starting point to write something, whether it be a unique piece which will stand out of the trends, or something safe that you are sure the current directors will go for because of popular demand. You can come back to this website whenever you need for more ideas and predictions of what the next releases will be. Now you know what to write about if you want to be sure to be in the times. Or what to write to stand out from the flock, but at your own risk! 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-Omf!
-
-# I love pizza!
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
