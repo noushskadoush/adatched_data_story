@@ -143,15 +143,30 @@ At a first glance the increase in proportion of political films after the scanda
 (plot modèle moche)
 
 Although we do see a prominent increase in political movies following the Watergate scandal, statistical analysis and fitting of the model tell us that this observed rise is not linked to the political event and it is unlikely that the scandal lead to any sustained change, whether it be only in the US or in the world as a whole. 
-So not all political events have an impact on movie releases. Good to know. Hopefully you still learnt something. 
+So not all political events have an impact on movie releases. Good to know. Hopefully you still learned something. 
 
 ### 🕵️‍♂️ Spy Movies and The Cuban Missile Crisis
 
+Another big political event of the Cold War that shook the public opinion in the US is the Cuban Missile Crisis. Lets try again to see how this time-mark influenced overall movie release trends. 
+
+> 🤓 _The Cuban Missile Crisis was a tense 13-day standoff in October 1962 between the United States and the Soviet Union over the installation of Soviet nuclear missiles in Cuba, bringing the world to the brink of nuclear war before a peaceful resolution was reached_
+
+(plot cuban missile distribution)
+
+We notice a big peak following the Cuban Missile Crisis, a time when people were anxious about the threat of nuclear war. This fear likely made Cold War themes feel more relevant and sparked greater interest in the spy genre during that period.
+
+(plot Cuban)
 
 
-
+This time the significance is verified! Using a Kernel Density Distribution, we can cofirm that the event caused a greatest rise in political movies two years after the event, which is consistent with the timeframe needed to write, produce and release a movie. 
+Political events *can* have an impact on releases, just not on all of them. Pick your political scandals wisely.  
 
 ### 🦖 Creature Movies and the Atomic Bomb
+
+From our last analysis, fear of nuclear warefare... 
+
+
+
 ### 🔪 Crime Movies and Prohibition
 ### 🎻 Melodramas after World War II
 ### 🎶 Musicals during The Great Depression
@@ -159,12 +174,9 @@ So not all political events have an impact on movie releases. Good to know. Hope
 
 (### 🎩 Film Noir and World War II)
 
-
-To conclude on the impact of these events on the overall behavior of genres...
-
 ## Technological Advacements
 
-Now lets take a look at technological breakthroughs which bring about  changes in the industry. Advancements in visual effects, sound, and camera systems will surely influence movie releases right? I'm sure more than one director decided to shoot a Documentary just to try out his fancy new drone. Here's three examples of inventions and advancements we can look into: 
+Now lets take a look at technological breakthroughs which bring about changes in the industry. Advancements in visual effects, sound, and camera systems will surely influence movie releases right? I'm sure more than one director decided to shoot a Documentary just to try out his fancy new drone. Here's three examples of inventions and advancements we can look into: 
 
 1. [Science Fiction/ Special Effects Advancements](#-major-special-effects-advancements-late-1970s-and-science-fiction-movies)
 2. [Black and White Movies/ Technicolor Technique](#-technicolor-technique-1916-and-black-and-white-movies)
@@ -191,18 +203,31 @@ Our favorite street fighter!
 
 ## Cultural movements and their impact
 
+Unlike wars or other singular events, which are time-bound with clearly defined beginnings and ends, social movements present a more complex challenge when attempting to identify their influence on genre distributions. Their impact tends to unfold gradually and can persist over extended periods, making it harder to pinpoint direct correlations with shifts in cinematic trends.
+
+To better understand this dynamic, we’ll examine several examples of sociological movements and analyze their effects on movie releases. In cases where specific genres show a sustained rise in popularity, exploring relevant themes and subjects within your film may prove to be a worthwhile endeavor.
+
 1. [LGBT Movies/ Gay rights movements](#-lgbt-movies-and-gay-rights-movements)
 2. [Western Movies/ Indian Civil Rights Act](#-western-movies-and-indian-civil-rights-act)
-3. [Horror and Teen Movies/ Teen Culture](#-horror-and-teen-movies-and-teen-culture)
-4. [Sex Comedies/ Sexual Revolution](#-sex-comedies-and-sexual-revolution)
 
 ### 🏳️‍🌈 LGBT Movies and Gay rights movements
+
+LGBTQ+ representation in cinema is likely tied to the long-term social progress of public opinions which is paced by several notable key milestones, such as the First Pride Marches or legal breakthroughs. It is worth noting if these milestones produce sudden spikes in popularity or contribute to the overall rise over time: we see a noticeble growth after the milestones.
+
+(plot distributiin LBTQ)
+
+Statistical analysis and model fitting using OLS regression give us the disappointing conclusion that these keystone events have no real influence on the plot. There is no clear change observed after each event, but you can be sure that the numbers are high and remain high. Regardless of history, LGBTQ+ representation is something that gains in popularity, and you're pretty safe if you choose to do so in your movie.
+
+(plot model lgbtq+)
+
 ### 🤠 Western Movies and Indian Civil Rights Act
-### 👻 Horror and Teen Movies and Teen Culture
-### 🍆 Sex Comedies and Sexual Revolution
+
 
 
 ## Globalization and integration policies
+
+
+
 1. [Chinese Movies/ Cultural revolution](#-chinese-movies-cultural-revolution)
 2. [Japanese Movies/ Post WWII occupation](#-japanese-movies-post-wwii-occupation)
 3. [Bollywood/ Indian independance](#-bollywood-indian-independance)
