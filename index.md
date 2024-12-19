@@ -91,29 +91,74 @@ Lets delve into the historical events. We have a list of major events, and pairi
 
 3. [Film Noir/ World War II](#-film-noir-and-world-war-ii)
 
-4. [Rise of Musicals/ Great Depression](#-musicals-during-the-great-depression)
+4. [Political films/ Watergate scandal](#-political-films-and-watergate-scandal)
 
-5. [Political films/ Watergate scandal](#-political-films-and-watergate-scandal)
+5. [Spy Movies/ Cuban Missile Crisis](#-spy-movies-and-the-cuban-missile-crisis)
 
-6. [Spy Movies/ Cuban Missile Crisis](#-spy-movies-and-the-cuban-missile-crisis)
+6. [Creature Movies/ Atomic Bomb](#-creature-movies-and-the-atomic-bomb)
 
-7. [Creature Movies/ Atomic Bomb](#-creature-movies-and-the-atomic-bomb)
+7. [Crime Movies/ Prohibition in USA](#-crime-movies-and-prohibition)
 
-8. [Crime Movies/ Prohibition in USA](#-crime-movies-and-prohibition)
+8. [Melodramas/ World War I](#-melodramas-after-world-war-ii)
 
-9. [Melodramas/ World War I](#-melodramas-after-world-war-ii)
+9. [Rise of Musicals/ Great Depression](#-musicals-during-the-great-depression)
+
 
 Each time, we will verify if the event has a statistically significant influence on our observations. We can perhaps event try to fit a model, in the case when we would want to predict the behavior of genre releases in the future. This is something I am sure could come in handy for a film-writer such as you. 
 
 ### 🪖 War Movies and World War II
+
+Let's kick off our analysis with the most influencial event: World War II. If we look at War-themed movies, we have a significant increase during the 1940s, which aligns with World War II, suggesting that the conflict likely influenced the film industry. Another peak appears around the early 2000s. And this effect does not happen locally: it seems to have been the case in EU just as it has in the USA.
+
+(plot proportion of war movies)
+
+We have a clear sharp and temporary increase of war movie production. But before we lose ourselves in all of these assumptions, it is worth checking that this increase is statistically significant. Dont just start writing about wars just yet.
+
+Fitting a model using R_squared as criteria, we maintain with statistical significance the dinstinct jump in War movie productions during and after the war. While the immediate effect is, once again, clear and confirmed, our model sugests that there is also a lasting influence and effect on this number. 
+
+(plot u model)
+
+Our initial instinct on the sharp short-term success but right, but here we still observe a sustained trend over time, which could be influenced by overall opinion and social movements caused by such event.
+
 ### 🔰 Propaganda movies during World War II
-### 🎩 Film Noir and World War II
-### 🎶 Musicals during The Great Depression
+
+Again, staying in the theme of World War II, it could be worth looking at the behavior of Propaganda. More precisely Nazi Propaganda (hopefully this is not the type of movie you are aiming to write!). Looking at the distribution shows a gradual increase in the 30s as the political movement gains popularity. Quite reassuringly, its numbers fall to a complete halt after the War. Except for one small outlier in the 2000s. 
+
+> 🤓 _Battle for Norway – Campaign 1940 is a German propaganda film produced by the UFA in 1940 by the High Command of the Wehrmacht. The film was considered lost for a long time. It was not found by the Norwegian film historian Jostein Saakvitne randomly in 2000 in the offer of a militaria online auction house. These were five film rolls with a total weight of 20 kilograms. The film changed the owner anonymously for less than 1000 euros. On the 20th The film first premiered after the war by the film institute Oslo in September 2006. The film was not performed in Germany._
+
+(plot propaganda distribution + model fit)
+
+Statiscal analysis and model fitting of this distribution gives us confirmation that the contribution to the war in Nazi Propaganda movies is clear and brief. This is something we probably could have guessed without too much problem but at least we are mathematically certain of one thing: Don't write a Nazi Propaganda movie. 
+
 ### 🏅 Political Films and Watergate Scandal
+
+We're pretty confient that World War II had an effect on the silver screen by now. The world resonating impact of this event kind of speaks for itself. But it coul be intresting to look at smaller and more local political events on the film industry overall:  The Watergate Scandal for example. 
+
+> 🤓  _The Watergate scandal was a major political scandal in the 1970s where members of President Nixon's administration were involved in a break-in at the Democratic National Committee headquarters and subsequent cover-up, leading to Nixon's resignation in 1974._
+
+(plot proportion politics, watergate)
+
+At a first glance the increase in proportion of political films after the scandal is not clear. We can be sure that the event did not lead to any spikes in releases, but could it have lead to contributing to the sustained increase?
+
+(plot modèle moche)
+
+Although we do see a prominent increase in political movies following the Watergate scandal, statistical analysis and fitting of the model tell us that this observed rise is not linked to the political event and it is unlikely that the scandal lead to any sustained change, whether it be only in the US or in the world as a whole. 
+So not all political events have an impact on movie releases. Good to know. Hopefully you still learnt something. 
+
 ### 🕵️‍♂️ Spy Movies and The Cuban Missile Crisis
+
+
+
+
+
 ### 🦖 Creature Movies and the Atomic Bomb
 ### 🔪 Crime Movies and Prohibition
 ### 🎻 Melodramas after World War II
+### 🎶 Musicals during The Great Depression
+
+
+(### 🎩 Film Noir and World War II)
+
 
 To conclude on the impact of these events on the overall behavior of genres...
 
@@ -169,6 +214,26 @@ Our favorite street fighter!
 # Conclusion
 
 So we've taken you on quite a journey throught time and cinematography. Hopefully this has given you some kind of idea of how the trends in cinema are linked to our current times. Turn on the news! It can give you a starting point to write something, whether it be a unique piece which will stand out of the trends, or something safe that you are sure the current directors will go for because of popular demand. You can come back to this website whenever you need for more ideas and predictions of what the next releases will be. Now you know what to write about if you want to be sure to be in the times. Or what to write to stand out from the flock, but at your own risk! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
