@@ -124,7 +124,7 @@ Let's kick off our analysis with the most influencial event: World War II. If we
 Fitting a model using R_squared as criteria, we maintain with statistical significance the dinstinct jump in War movie productions during and after the war. While the immediate effect is, once again, clear and confirmed, our model sugests that there is also a lasting influence and effect on this number. 
 
 <br>
-<img src="war model.png" width="100%">
+<img src="war model.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 
@@ -139,13 +139,13 @@ Again, staying in the theme of World War II, it could be worth looking at the be
 
 > 🤓 _Battle for Norway – Campaign 1940 is a German propaganda film produced by UFA in 1940 for the Wehrmacht. Long thought lost, it was rediscovered in 2000 by Norwegian film historian Jostein Saakvitne through a militaria online auction. The film, consisting of five rolls weighing 20 kilograms, was anonymously sold for under 1,000 euros. It premiered post-war in September 2006 at the Oslo Film Institute but was never shown in Germany._
 
-<img src="propaganda.png" width="100%">
+<img src="propaganda.png" width="100%" style="display: block; margin: auto;">
 
 Statistical analysis and model fitting of this distribution gives us confirmation that the contribution to the war in Nazi Propaganda movies is clear and brief. This decline reflects how Propaganda films can be context-dependent and do not sustain beyond the immediate historical moment.
 
 But let's not stop here at something so evident. Lets look at propaganda movies as a whole. Analysis of the difference in numbers before, during and after the World War shows us that the proportion of propaganda movies decreases significantly after compared to during the war. Fitting a model confirms the presence of a clear pear during that event: World War II had a sudden brief impact on the film industry, most nobally on propaganda. 
 
-<img src="propaganda model.png" width="100%">
+<img src="propaganda model.png" width="80%" style="display: block; margin: auto;">
 
 
  This is something we probably could have guessed without too much problem but at least we are mathematically certain of one thing: Don't write a Nazi Propaganda movie now. 
@@ -160,13 +160,13 @@ We're pretty confient that World War II had an effect on the silver screen by no
 > 🤓  _The Watergate scandal was a major political scandal in the 1970s where members of President Nixon's administration were involved in a break-in at the Democratic National Committee headquarters and subsequent cover-up, leading to Nixon's resignation in 1974._
 
 <br>
-<img src="wg proportions.png" width="100%">
+<img src="wg proportions.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 At a first glance the increase in proportion of political films after the scandal is not clear. We can be sure that the event did not lead to any spikes in releases, but could it have lead to contributing to the sustained increase?
 
 <br>
-<img src="ugly model.png" width="100%">
+<img src="ugly model.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 Although we do see a prominent increase in political movies following the Watergate scandal, statistical analysis and fitting of the model tell us that this observed rise is not linked to the political event and it is unlikely that the scandal lead to any sustained change, whether it be only in the US or in the world as a whole. 
@@ -181,13 +181,13 @@ Another big political event of the Cold War that shook the public opinion in the
 > 🤓 _The Cuban Missile Crisis was a tense 13-day standoff in October 1962 between the United States and the Soviet Union over the installation of Soviet nuclear missiles in Cuba, bringing the world to the brink of nuclear war before a peaceful resolution was reached_
 
 <br>
-<img src="cuban proportion.png" width="100%">
+<img src="cuban proportion.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 We notice a big peak following the Cuban Missile Crisis, a time when people were anxious about the threat of nuclear war. This fear likely made Cold War themes feel more relevant and sparked greater interest in the spy genre during that period.
 
 <br>
-<img src="cuban peak.png" width="100%">
+<img src="cuban peak.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 This time the significance is verified! Using a Kernel Density Distribution, we can cofirm that the event caused a greatest rise in political movies two years after the event, which is consistent with the timeframe needed to write, produce and release a movie. 
@@ -203,13 +203,13 @@ Another fun experiment would be looking at something a bit more contradictory: M
 > 🤓 _The Great Depression (1929–1939) was a severe global economic downturn marked by widespread unemployment, bank failures, and a dramatic decline in industrial production and trade, triggered by the 1929 U.S. stock market crash._
 
 <br>
-<img src="depression peak.png" width="100%">
+<img src="depression peak.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 The marked period does indeed seem to prompt a need for escapism. Fitting a model to predict the trend seems to show that there is indeed a significant increase during that period, with a pretty intense peak, and is also sustained post-Depression with a lingering effect. 
 
 <br>
-<img src="depression model.png" width="100%">
+<img src="depression model.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 Notably, the lasting rise in musicals post-Depression could also be alined with the advent of synchronized sound which revolutionized the industry (_The Jazz Singer (1927)_), before wich the music of films came from the orchestra. Indeed, people needed music at that time and perhaps the Depression motivated this technical advancement even more. 
@@ -320,7 +320,7 @@ LGBTQ+ representation in cinema is likely tied to the long-term social progress 
 Although statistical analysis and model fitting using OLS regression indicate that these keystone events do not result in clear peaks in the number of movies related to the genre, LGBTQ+ representation in cinematography has shown a continuous rise throughout history. This is likely due to the gradual nature of societal and cultural breakthroughs, such as the acceptance of diverse sexualities over time.
 
 <br>
-<img src="model lgbt.png" width="100%">
+<img src="model lgbt.png" width="100%" style="display: block; margin: auto;">
 <br>
 
 This steady progress underscores the importance of cultural and societal shifts that build over time, rather than relying solely on singular events or milestones. As representation becomes more visible and diverse, it not only reflects evolving societal norms but also actively contributes to shaping them, and the film making industry accompanies this change. LGBTQ+ representation is something that continuously gains in popularity, and you’re pretty safe if you choose to do so in your movie.
