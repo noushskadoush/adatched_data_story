@@ -23,9 +23,10 @@ Join us on this analytical journey as we explore how pivotal societal events hav
 
 First, let us take a look at all movie that have been released since the beginning of cinema. These movies are characterized by genres and a release date. These are the two parameters we will need for our study. Our first reflex would be to examine the temporal distribution of genres, and see if we can already see patterns there.
 
+<img src="average movie genres.png" width="100%">
 <img src="proportion of movies.png" width="100%">
 
-At this early point, there's already a couple of things we observe:
+At this early point, aside from a clear variation of genres through time, there's already a couple of things we observe:
 
 *   The rise of the “Musical” in the 1930s-1950s: This peak may coincide with the rise of Hollywood musicals after the Great Depression and during the Second World War, a period when entertainment was important.
 *   The gradual decline of “Dramas” after 1940: This may be linked to a shift in public demand towards lighter or more spectacular genres (such as action and adventure).
@@ -92,13 +93,14 @@ Lets delve into the historical events. We have a list of major events, and pairi
 
 5. [Spy Movies/ Cuban Missile Crisis](#-spy-movies-and-the-cuban-missile-crisis)
 
-6. [Creature Movies/ Atomic Bomb](#-creature-movies-and-the-atomic-bomb)
+6. [Rise of Musicals/ Great Depression](#-musicals-during-the-great-depression)
 
-7. [Crime Movies/ Prohibition in USA](#-crime-movies-and-prohibition)
+7. [Creature Movies/ Atomic Bomb](#-creature-movies-and-the-atomic-bomb)
 
-8. [Melodramas/ World War I](#-melodramas-after-world-war-ii)
+8. [Crime Movies/ Prohibition in USA](#-crime-movies-and-prohibition)
 
-9. [Rise of Musicals/ Great Depression](#-musicals-during-the-great-depression)
+9. [Melodramas/ World War I](#-melodramas-after-world-war-ii)
+
 
 Each time, we will verify if the event has a statistically significant influence on our observations. We can perhaps event try to fit a model, in the case when we would want to predict the behavior of genre releases in the future. This is something I am sure could come in handy for a film-writer such as you. 
 
@@ -127,7 +129,15 @@ Again, staying in the theme of World War II, it could be worth looking at the be
 
 <img src="propaganda.png" width="100%">
 
-Statistical analysis and model fitting of this distribution gives us confirmation that the contribution to the war in Nazi Propaganda movies is clear and brief. This decline reflects how Propaganda films can be context-dependent and do not sustain beyond the immediate historical moment. This is something we probably could have guessed without too much problem but at least we are mathematically certain of one thing: Don't write a Nazi Propaganda movie. 
+Statistical analysis and model fitting of this distribution gives us confirmation that the contribution to the war in Nazi Propaganda movies is clear and brief. This decline reflects how Propaganda films can be context-dependent and do not sustain beyond the immediate historical moment.
+
+But let's not stop here at something so evident. Lets look at propaganda movies as a whole. Analysis of the difference in numbers before, during and after the World War shows us that the proportion of propaganda movies decreases significantly after compared to during the war. Fitting a model confirms the presence of a clear pear during that event: World War II had a sudden brief impact on the film industry, most nobally on propaganda. 
+
+<img src="propaganda model.png" width="100%">
+
+
+ This is something we probably could have guessed without too much problem but at least we are mathematically certain of one thing: Don't write a Nazi Propaganda movie now. 
+
 
 ### 🏅 Political Films and Watergate Scandal
 
@@ -154,20 +164,35 @@ Another big political event of the Cold War that shook the public opinion in the
 
 We notice a big peak following the Cuban Missile Crisis, a time when people were anxious about the threat of nuclear war. This fear likely made Cold War themes feel more relevant and sparked greater interest in the spy genre during that period.
 
-(plot Cuban)
+<img src="cuban peak.png" width="100%">
 
 This time the significance is verified! Using a Kernel Density Distribution, we can cofirm that the event caused a greatest rise in political movies two years after the event, which is consistent with the timeframe needed to write, produce and release a movie. 
+
 Political events *can* have an impact on releases, just not on all of them. Pick your political scandals wisely.  
+
+### 🎶 Musicals during The Great Depression
+
+Another fun experiment would be looking at something a bit more contradictory: Musicals and the Great Depression. Did this period of great misery for the american population push people towards entertainment as an escape? It is worth looking into the popularity of these types of movies do in times of social despair. 
+
+> 🤓 _The Great Depression (1929–1939) was a severe global economic downturn marked by widespread unemployment, bank failures, and a dramatic decline in industrial production and trade, triggered by the 1929 U.S. stock market crash._
+
+<img src="depression peak.png" width="100%">
+
+The marked period does indeed seem to prompt a need for escapism. Fitting a model to predict the trend seems to show that there is indeed a significant increase during that period, with a pretty intense peak, and is also sustained post-Depression with a lingering effect. 
+
+<img src="depression model.png" width="100%">
+
+Notably, the lasting rise in musicals post-Depression could also be alined with the advent of synchronized sound which revolutionized the industry (_The Jazz Singer (1927)_), before wich the music of films came from the orchestra. Indeed, people needed music at that time and perhaps the Depression motivated this technical advancement even more. 
+
+In any case it is clear that historical technical developments in the industry had an impact on preferences and genres. 
 
 ### 🦖 Creature Movies and the Atomic Bomb
 ### 🔪 Crime Movies and Prohibition
 ### 🎻 Melodramas after World War II
-### 🎶 Musicals during The Great Depression
-
 
 ## Technological Advacements
 
-Now lets take a look at technological breakthroughs which bring about changes in the industry. Advancements in visual effects, sound, and camera systems will surely influence movie releases right? I'm sure more than one director decided to shoot a Documentary just to try out his fancy new drone. Here's three examples of inventions and advancements we can look into: 
+So lets take a look at technological breakthroughs which bring about changes in the industry. Advancements in visual effects, sound, and camera systems will surely influence movie releases right? I'm sure more than one director decided to shoot a Documentary just to try out his fancy new drone. Here's three examples of inventions and advancements we can look into: 
 
 1. [Science Fiction/ Special Effects Advancements](#-major-special-effects-advancements-late-1970s-and-science-fiction-movies)
 2. [Black and White Movies/ Technicolor Technique](#-technicolor-technique-1916-and-black-and-white-movies)
@@ -175,9 +200,27 @@ Now lets take a look at technological breakthroughs which bring about changes in
 
 ### 🛸 Major special effects advancements (late 1970s) and Science-Fiction Movies
 
+Most likely advances in visual techniques brought about a whole new set of horizons for movie producers and writers such as you. 
+
+<img src="science fiction.png" width="100%">
+
+The proportion of science fiction movies saw a steep increase starting in the mid-1970s, coinciding with the emergence of the blockbuster era. This growth was likely fueled by the adoption of advanced visual effects techniques, including the introduction of Computer-Generated Imagery (CGI) between 1973 and 1982, as well as the use of motion control cameras and animatronics, which gained prominence in the late 1970s. The continued surge in the 1980s may also be attributed to a renewed public fascination with space exploration, for example by the launch of the Space Shuttle program in 1981.
+
 ### 🎨 Technicolor technique (1916) and Black-and-white Movies
 
+Let there be color! The first colorized film appeared on the screen in 1902, but it is the invention of technicolor in 1912 that really change the accesibility of producing a colour film. This substractive technique was way less expensive then previous additive techniques used.
+
+<img src="black white.png" width="100%">
+
+So the decline of the prevalence of black-and-white movies can be easily explained by the invention of the first technicolor technique in 1916, which was later improved. Progressivly, color films became more affordable and accessible and overtakook black-and-white movies. If you write a black-and-white movie now, you're sure to stand out! Not sure if producers will be happy though.
+
 ### 📢 Sound Technologies (1927) and Silent Movies
+
+Before color and CGI, the most obvious influencial change to the industry is probably sound. The introduction of sound in movies became possible with the Vitaphone system invented in 1927. The release of The Jazz Singer, the first movie with dialogue and music, was a turning point. Silent films became rapidly obsolete.
+
+<img src="sound tech.png" width="100%">
+
+The data is pretty straightfoward here.
 
 ## Commercial Success Hits
 
