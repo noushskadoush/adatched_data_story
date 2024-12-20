@@ -49,10 +49,10 @@ Now that we are equipped with the basic tools to begin our analysis, we can get 
 Picking out the most important movie genres, let’s take a first look at the potential correlations between our historical events and their distribution. We are looking for major shifts in the prominence of genres after selected timepoints.
 
 <br>
-<img src="plot global plot.png" width="100%">
+<img src="plot global plot2.png" width="100%">
 <br>
 
- Some events are followed with more significant changes than others, and already could hint at the possibility of an influence they have to the proportion of genres in movie releases. 
+ Some events are followed with more significant changes than others, and already we have intresting trends in the possibility of an influence they could have on the proportion of genres in movie releases. 
 
 *  Comedy and Drama consistently dominate the overall genre distribution, regardless of the event period.
 
@@ -63,11 +63,19 @@ Picking out the most important movie genres, let’s take a first look at the po
 Overall, for example, periods of conflict and upheavel seem to drive shifts toward action-oriented and reflective storytelling. 
 So maybe it may not be such a bad idea to take a look at the news before you start writing. 
 
+<img src="plot global plot.png" width="100%">
+
+Some specific events stand out in terms of the influence on genre distribution: 
+
+*  After World War II, the proportion of war films rose significantly. The introduction of Technicolor in 1916 coincided with an increase in war films, likely linked to World War I (1914–1918), while black-and-white films declined. For other events, the proportion of war films remained relatively stable before and after
+
+*  We have a notable increase in musicals following the Watergate Scandal and a rise in LGBT-themed films after the early Gay Rights Movements
+
+*  We see an emergence of Bollywood movies following the Indian Independence Act
+
 But we still have to try to understand the exact nature of the influence on the distribution of genres due to these events. Yes, major historical events do seem to be followed with some kind of change in the genres of films released at that time but how important is this change? Does it last more than a couple of years? Are the effects, if they are real effect, immediate or do that endure in the long term?
 
-Because sure, you may find it a good idea to write a romance movie after the passage of laws on gay rights but will your movie be part of a short-lived trend?
-
-It might be smart to focus in a few significant events and take a closer look at several specific case studies to reinforce our analysis.
+Because sure, you may find it a good idea to write a romance movie after the passage of laws on gay rights but will your movie be part of a short-lived trend? It might be smart to focus on these few significant events and take a closer look at several specific case studies to reinforce our analysis.
 <br>
 <br>
 
@@ -320,7 +328,7 @@ LGBTQ+ representation in cinema is likely tied to the long-term social progress 
 Although statistical analysis and model fitting using OLS regression indicate that these keystone events do not result in clear peaks in the number of movies related to the genre, LGBTQ+ representation in cinematography has shown a continuous rise throughout history. This is likely due to the gradual nature of societal and cultural breakthroughs, such as the acceptance of diverse sexualities over time.
 
 <br>
-<img src="model lgbt.png" width="100%" style="display: block; margin: auto;">
+<img src="model lgbt.png" width="100%">
 <br>
 
 This steady progress underscores the importance of cultural and societal shifts that build over time, rather than relying solely on singular events or milestones. As representation becomes more visible and diverse, it not only reflects evolving societal norms but also actively contributes to shaping them, and the film making industry accompanies this change. LGBTQ+ representation is something that continuously gains in popularity, and you’re pretty safe if you choose to do so in your movie.
