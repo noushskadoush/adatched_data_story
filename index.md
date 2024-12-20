@@ -295,7 +295,8 @@ The emergence of the first slasher movies revolutionized the film industry by in
 <img src="slasher.png"  width="80%" style="display: block; margin: auto;">
 <br>
 
-_Halloween (1978)_ is low-budget film that grossed $70 million, proving the profitability of the genre. Studios quickly hopped on the bandwagon, producing a flood of slasher films to meet audience demand. In the 1980s, the genre is flourishing and the appearance of VHS in the 1980s allowed slasher films to thrive beyond theaters. These movies were inexpensive to produce and highly profitable on home video which explains why their proportion remained quite high for the past years.
+Over 80 years, the magnitude increases nearly 15-fold, highlighting the significant impact of exponential growth over extended periods. This shows that Slasher movies exhibit continuous and accelerating change.Some early slasher movies had an probably drive this rising  successes. 
+_Halloween (1978)_, for example, is low-budget film that grossed $70 million, proving the profitability of the genre. Studios quickly hopped on the bandwagon, producing a flood of slasher films to meet audience demand. In the 1980s, the genre is flourishing and the appearance of VHS in the 1980s allowed slasher films to thrive beyond theaters. These movies were inexpensive to produce and highly profitable on home video which explains why their proportion remained quite high for the past years.
 
 <br>
 <img src="slasher expo.jpg"  width="80%" style="display: block; margin: auto;">
@@ -314,7 +315,10 @@ Our favorite street fighter! Bruce Lee’s debut films transformed martial arts 
 <img src="bruce expo.jpg"  width="80%" style="display: block; margin: auto;">
 <br>
 
-Once more, we can fit an exponential curve pretty easily to the behavior of the proportion. Its safe to say that great box office hits lead the distribution of their corresponding genres as they set trends and examples, inspiring other writers like you to recreate their success.
+Once more, we can fit an exponential curve pretty easily to the behavior of the proportion: Martial arts films started with a small footprint but have grown steadily at a moderate pace. Over 80 years, the genre’s presence has expanded significantly, nearly 14 times its initial size, with a doubling time of around 21 years. The rising of this growth coincides with the release of Bruce Lee's first movies.
+
+
+ Now we can safely say that great box office hits lead the distribution of their corresponding genres as they set trends and examples, inspiring other writers like you to recreate their success.
 
 <br>
 
