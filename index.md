@@ -67,13 +67,13 @@ So maybe it may not be such a bad idea to take a look at the news before you sta
 
 Some specific events stand out in terms of the influence on genre distribution: 
 
-*  After World War II, the proportion of war films rose significantly. The introduction of Technicolor in 1916 coincided with an increase in war films, likely linked to World War I (1914–1918), while black-and-white films declined. For other events, the proportion of war films remained relatively stable before and after
+*  After World War II, the proportion of war films rose significantly. The introduction of Technicolor in 1916 coincided with an increase in war films, likely linked to World War I (1914–1918), while black-and-white films declined. For other events, the proportion of war films remained relatively stable before and after,
 
-*  We have a notable increase in musicals following the Watergate Scandal and a rise in LGBT-themed films after the early Gay Rights Movements
+*  We have a notable increase in musicals following the Watergate Scandal and a rise in LGBT-themed films after the early Gay Rights Movements,
 
-*  We see an emergence of Bollywood movies following the Indian Independence Act
+*  We see an emergence of Bollywood movies following the Indian Independence Act.
 
-But we still have to try to understand the exact nature of the influence on the distribution of genres due to these events. Yes, major historical events do seem to be followed with some kind of change in the genres of films released at that time but how important is this change? Does it last more than a couple of years? Are the effects, if they are real effect, immediate or do that endure in the long term?
+But we still have to try to understand the exact nature of the influence on the distribution of genres due to these events. Yes, major historical events do seem to be followed with some kind of change in the genres of films released at that time but how important is this change? Does it last more than a couple of years? Are the effects, if they are real effects, immediate or do that endure in the long term?
 
 Because sure, you may find it a good idea to write a romance movie after the passage of laws on gay rights but will your movie be part of a short-lived trend? It might be smart to focus on these few significant events and take a closer look at several specific case studies to reinforce our analysis.
 <br>
@@ -88,19 +88,20 @@ Let us continue our historical analysis and cross-reference with variations in t
 Narrowing our focus to specific types of films through targeted case studies allows for more concrete insights and clearer conclusions. By examining these case studies, we can assess the influence on cinematic trends, determining whether this impact is periodic and short-lived or contributes to a sustained, long-term effect.
 
 There are different types of events we can look into:
-* [Major historical events](#major-historical-events), at a specific time, which have a resnonating impact on society
-* [Technological advancements](#technological-advacements), which usher great changes in the industry, such as advancements in visual effects, sound, and cinematography, which bring clear impacts on filmmaking trends
-* [Commercially successful hits](#commercial-success-hits), that may set new standards or inspire a wave of similar films
-* [Rise in cultural movements](#cultural-movements-and-their-impact) which reflect societal changes and may shape themes and narratives depicted in movies
-* [Globalization](#globalization-and-integration-policies) and the political and economical openings towards other cultures
+* [Major historical events](#major-historical-events), at a specific time, which have a resonating impact on society,
+* [Technological advancements](#technological-advancements), which usher great changes in the industry, such as advancements in visual effects, sound, and cinematography, which bring clear impacts on filmmaking trends,
+* [Commercially successful hits](#commercial-success-hits), that may set new standards or inspire a wave of similar films,
+* [Rise in social movements](#impact-of-social-movements) which reflect changes in social norms and may shape themes and narratives depicted in movies,
+* [Globalization](#globalization-and-integration-policies) and the political and economical openings towards other cultures.
 
 Because these "timepoints" are quite different in nature, surely they will reflect differing impacts on the cinema industry, and this is what we want to establish.
 
 
 <br>
+
 ## Major Historical Events
 
-Lets delve into the historical events. We have a list of major events, and pairing them with a type of movie, we will test whether they lead to gradual sustained effect, or spikes in genre production.
+Let's delve into the historical events. We have a list of major events, and pairing them with a type of movie, we will test whether they lead to gradual sustained effect, or spikes in genre production.
 
 1. [War Movies/ World War II](#-1---war-movies-and-world-war-ii)
 
@@ -113,23 +114,23 @@ Lets delve into the historical events. We have a list of major events, and pairi
 5. [Rise of Musicals/ Great Depression](#-5---musicals-during-the-great-depression)
 
 
-Each time, we will verify if the event has a statistically significant influence on our observations. We can perhaps event try to fit a model, in the case when we would want to predict the behavior of genre releases in the future. This is something I am sure could come in handy for a film-writer such as you. 
+Each time, we will verify if the event has a statistically significant influence on our observations. We can perhaps try to fit a model, in the case when we would want to predict the behavior of genre releases in the future. This is something I am sure could come in handy for a film-writer such as you. 
 
 <br>
 
 ### 🪖 1 - War Movies and World War II
 
-Let's kick off our analysis with the most influencial event: World War II. If we look at War-themed movies, we have a significant increase during the 1940s, which aligns with World War II, suggesting that the conflict likely influenced the film industry. Another peak appears around the early 2000s. And this effect does not happen locally: it seems to have been the case in EU just as it has in the USA.
+Let's kick off our analysis with the most influencial event: World War II. If we look at War-themed movies, we have a significant increase during the 1940s, which aligns with World War II, suggesting that the conflict likely influenced the film industry. Another peak appears around the early 2000s. And this effect does not happen locally: it seems to have been the case in the EU just as it has in the USA.
 
 <br>
 <img src="plot war proportion.png" width="100%">
 <br>
 
- The theme of war is much more frequently portrayed from a dramatic rather than a comedic perspective. However, even if WWII had a global impact, experiences vary greatly from one region of the world to another. When comparing this proportion between European countries where war was being fought and, for example, the United States of America (chosen because it is the largest producer of movies worldwide), we see that the war comedic perspective is much more present. This is auite intresting because it expresses the cultural differences in the portrayal of war and we see how differently World War II had an impact on the film industry between the US and the EU.
+ The theme of war is much more frequently portrayed from a dramatic rather than a comedic perspective. However, even if WWII had a global impact, experiences vary greatly from one region of the world to another. When comparing this proportion between European countries where war was being fought and, for example, the United States of America (chosen because it is the largest producer of movies worldwide), we see that the war comedic perspective is much more present. This is quite intresting because it expresses the cultural differences in the portrayal of war and we see how differently World War II had an impact on the film industry between the US and the EU.
 
- So we have a clear sharp and temporary increase of war movie production. But before we lose ourselves in all of these assumptions, it is worth checking that this increase is statistically significant. Dont just start writing about wars just yet.
+ So we have a clear sharp and temporary increase of war movie production. But before we lose ourselves in all of these assumptions, it is worth checking that this increase is statistically significant. Don't start writing about wars just yet.
 
-Fitting a model using R_squared as criteria, we maintain with statistical significance the dinstinct jump in War movie productions during and after the war. While the immediate effect is, once again, clear and confirmed, our model sugests that there is also a lasting influence and effect on this number. 
+Fitting a model using R_squared as criteria, we maintain with statistical significance the dinstinct jump in War movie productions during and after the war. While the immediate effect is, once again, clear and confirmed, our model suggests that there is also a lasting influence and effect on this number. 
 
 <br>
 <img src="war model.png" width="80%" style="display: block; margin: auto;">
@@ -137,7 +138,7 @@ Fitting a model using R_squared as criteria, we maintain with statistical signif
 
 
 The fitted model shows a distinct jump in the predicted war movie proportions during WWII and a recalibrated level afterward, indicating that the war era fundamentally changed the landscape of war film production.
-Our initial instinct on the sharp short-term success but right, but here we still observe a sustained trend over time, which could be influenced by overall opinion and social movements caused by such event.
+Our initial instinct about the short-term success was true. We however still observe a sustained trend over time, which could be influenced by overall opinion and social movements caused by such event.
 
 <br>
 
@@ -151,7 +152,7 @@ Again, staying in the theme of World War II, it could be worth looking at the be
 
 Statistical analysis and model fitting of this distribution gives us confirmation that the contribution to the war in Nazi Propaganda movies is clear and brief. This decline reflects how Propaganda films can be context-dependent and do not sustain beyond the immediate historical moment.
 
-But let's not stop here at something so evident. Lets look at propaganda movies as a whole. Analysis of the difference in numbers before, during and after the World War shows us that the proportion of propaganda movies decreases significantly after compared to during the war. Fitting a model confirms the presence of a clear pear during that event: World War II had a sudden brief impact on the film industry, most nobally on propaganda. 
+But let's not stop here at something so evident. Let's look at propaganda movies as a whole. Analysis of the difference in numbers before, during and after the World War shows us that the proportion of propaganda movies decreases significantly after compared to during the war. Fitting a model confirms the presence of a clear pear during that event: World War II had a sudden brief impact on the film industry, most notably on propaganda. 
 
 <img src="propaganda model.png" width="80%" style="display: block; margin: auto;">
 
@@ -163,7 +164,7 @@ But let's not stop here at something so evident. Lets look at propaganda movies 
 
 ### 🏅 3 - Political Films and Watergate Scandal
 
-We're pretty confient that World War II had an effect on the silver screen by now. The world resonating impact of this event kind of speaks for itself. But it coul be intresting to look at smaller and more local political events on the film industry overall:  The Watergate Scandal for example. 
+We're pretty confient that World War II had an effect on the silver screen by now. The world resonating impact of this event kind of speaks for itself. But it could be intresting to look at smaller and more local political events on the film industry overall:  The Watergate Scandal for example. 
 
 > 🤓  _The Watergate scandal was a major political scandal in the 1970s where members of President Nixon's administration were involved in a break-in at the Democratic National Committee headquarters and subsequent cover-up, leading to Nixon's resignation in 1974._
 
@@ -184,9 +185,9 @@ So not all political events have an impact on movie releases. Good to know. Hope
 
 ### 🕵️‍♂️ 4 - Spy Movies and The Cuban Missile Crisis
 
-Another big political event of the Cold War that shook the public opinion in the US is the Cuban Missile Crisis. Lets try again to see how this time-mark influenced overall movie release trends. 
+Another big political event of the Cold War that shook the public opinion in the US is the Cuban Missile Crisis. Let's try again to see how this time-mark influenced overall movie release trends. 
 
-> 🤓 _The Cuban Missile Crisis was a tense 13-day standoff in October 1962 between the United States and the Soviet Union over the installation of Soviet nuclear missiles in Cuba, bringing the world to the brink of nuclear war before a peaceful resolution was reached_
+> 🤓 _The Cuban Missile Crisis was a tense 13-day standoff in October 1962 between the United States and the Soviet Union over the installation of Soviet nuclear missiles in Cuba, bringing the world to the brink of nuclear war before a peaceful resolution was reached._
 
 <br>
 <img src="cuban proportion.png" width="80%" style="display: block; margin: auto;">
@@ -220,7 +221,7 @@ The marked period does indeed seem to prompt a need for escapism. Fitting a mode
 <img src="depression model.png" width="80%" style="display: block; margin: auto;">
 <br>
 
-Notably, the lasting rise in musicals post-Depression could also be alined with the advent of synchronized sound which revolutionized the industry (_The Jazz Singer (1927)_), before wich the music of films came from the orchestra. Indeed, people needed music at that time and perhaps the Depression motivated this technical advancement even more. 
+Notably, the lasting rise in musicals post-Depression could also be aligned with the advent of synchronized sound which revolutionized the industry (_The Jazz Singer (1927)_), before which the music of films came from the orchestra. Indeed, people needed music at that time and perhaps the Depression motivated this technical advancement even more. 
 
 In any case it is clear that historical technical developments in the industry had an impact on preferences and genres. 
 
@@ -229,7 +230,7 @@ In any case it is clear that historical technical developments in the industry h
 
 ## Technological Advancements
 
-So lets take a look at technological breakthroughs which bring about changes in the industry. Advancements in visual effects, sound, and camera systems will surely influence movie releases right? I'm sure more than one director decided to shoot a Documentary just to try out his fancy new drone. Here's three examples of inventions and advancements we can look into: 
+So let's take a look at technological breakthroughs which bring about changes in the industry. Advancements in visual effects, sound, and camera systems will surely influence movie releases right? I'm sure more than one director decided to shoot a Documentary just to try out his fancy new drone. Here's three examples of inventions and advancements we can look into: 
 
 1. [Science Fiction/ Special Effects Advancements](#-1---major-special-effects-advancements-late-1970s-and-science-fiction-movies)
 2. [Black and White Movies/ Technicolor Technique](#-2---technicolor-technique-1916-and-black-and-white-movies)
@@ -253,13 +254,13 @@ The proportion of science fiction movies saw a steep increase starting in the mi
 
 ### 🎨 2 - Technicolor technique (1916) and Black-and-white Movies
 
-Let there be color! The first colorized film appeared on the screen in 1902, but it is the invention of technicolor in 1912 that really change the accesibility of producing a colour film. This substractive technique was way less expensive then previous additive techniques used.
+Let there be color! The first colorized film appeared on screen in 1902, but it was the invention of technicolor in 1912 that truly changed the accessibility of producing a color film. This substractive technique was way less expensive then previous additive techniques used.
 
 <br>
 <img src="black and white.png" width="80%" style="display: block; margin: auto;">
 <br>
 
-So the decline of the prevalence of black-and-white movies can be easily explained by the invention of the first technicolor technique in 1916, which was later improved. Progressivly, color films became more affordable and accessible and overtakook black-and-white movies. If you write a black-and-white movie now, you're sure to stand out! Not sure if producers will be happy though.
+So the decline of the prevalence of black-and-white movies can be easily explained by the invention of the first technicolor technique in 1916, which was later improved. Progressively, color films became more affordable and accessible and overtook black-and-white movies. If you write a black-and-white movie now, you're sure to stand out! Not sure if producers will be happy though.
 
 
 <br>
@@ -279,7 +280,7 @@ The data is pretty straightfoward here. Include sound in your movie; its the saf
 
 ## Commercial Success Hits
 
-Big success hits are great sources of inspiration, I'm sure you will agree. How about we see how blockbuster hits catch the attention of other filmmakers and studios eager to replicate their success? One great idea often inspires others to do the same and many hits serve as cinematographical 'touchstones', which define new standards and trends that shape the industry. Lets examine this behavior with our genres and our analysis of trends.
+Big success hits are great sources of inspiration, I'm sure you will agree. How about we see how blockbuster hits catch the attention of other filmmakers and studios eager to replicate their success? One great idea often inspires others to do the same and many hits serve as cinematographical 'touchstones', which define new standards and trends that shape the industry. Let's examine this behavior with our genres and our analysis of trends.
 
 1. [Slasher Movies/ First Slasher Commercial Success](#-1---slasher-movies)
 2. [Martial Arts Movies/ Bruce Lee Success](#️-2---bruce-lee-and-martial-arts-films)
@@ -295,8 +296,8 @@ The emergence of the first slasher movies revolutionized the film industry by in
 <img src="slasher.png"  width="80%" style="display: block; margin: auto;">
 <br>
 
-Over 80 years, the magnitude increases nearly 15-fold, highlighting the significant impact of exponential growth over extended periods. This shows that Slasher movies exhibit continuous and accelerating change.Some early slasher movies had an probably drive this rising  successes. 
-_Halloween (1978)_, for example, is low-budget film that grossed $70 million, proving the profitability of the genre. Studios quickly hopped on the bandwagon, producing a flood of slasher films to meet audience demand. In the 1980s, the genre is flourishing and the appearance of VHS in the 1980s allowed slasher films to thrive beyond theaters. These movies were inexpensive to produce and highly profitable on home video which explains why their proportion remained quite high for the past years.
+Over 80 years, the magnitude increases nearly 15-fold, highlighting the significant impact of exponential growth over extended periods. This shows that Slasher movies exhibit continuous and accelerating change.Some early slasher movies had a probable drive in these rising successes. 
+_Halloween (1978)_, for example, is a low-budget film that grossed $70 million, proving the profitability of the genre. Studios quickly hopped on the bandwagon, producing a flood of slasher films to meet audience demand. In the 1980s, the genre is flourishing and the appearance of VHS in the 1980s allowed slasher films to thrive beyond theaters. These movies were inexpensive to produce and highly profitable on home video which explains why their proportion remained quite high for the past years.
 
 <br>
 <img src="slasher expo.jpg"  width="80%" style="display: block; margin: auto;">
@@ -322,7 +323,7 @@ Once more, we can fit an exponential curve pretty easily to the behavior of the 
 
 <br>
 
-## Cultural movements and their impact
+## Impact of social movements
 
 Unlike wars or other singular events, which are time-bound with clearly defined beginnings and ends, social movements present a more complex challenge when attempting to identify their influence on genre distributions. Their impact tends to unfold gradually and can persist over extended periods, making it harder to pinpoint direct correlations with shifts in cinematic trends.
 
@@ -334,7 +335,7 @@ To better understand this dynamic, we’ll examine several examples of sociologi
 
 ### 🏳️‍🌈 LGBT Movies and Gay rights movements
 
-LGBTQ+ representation in cinema is likely tied to the long-term social progress of public opinions which is paced by several notable key milestones, such as the First Pride Marches or legal breakthroughs. It is worth noting if these milestones produce sudden spikes in popularity or contribute to the overall rise over time: we see a noticeble growth after some of the milestones.
+LGBTQ+ representation in cinema is likely tied to the long-term social progress of public opinion which is paced by several notable key milestones, such as the First Pride Marches or legal breakthroughs. It is worth noting if these milestones produce sudden spikes in popularity or contribute to the overall rise over time: we see noticeable growth after some of the milestones.
 
 <br>
 <img src="lgbt proportion.png"  width="100%" style="display: block; margin: auto;">
@@ -355,7 +356,7 @@ This steady progress underscores the importance of cultural and societal shifts 
 
 ## Globalization and integration policies
 
-Globalization has profoundly influenced the film industry, not only through technological advancements that facilitate global distribution but also by fostering cultural exchange and integration. The political and economic opening of nations drices filmmakers to tap into diverse markets, audiences, and narratives, resulting in noticeable shifts in the proportion of genres in movie releases. We can look at three examples of such changes in trends.
+Globalization has profoundly influenced the film industry, not only through technological advancements that facilitate global distribution but also by fostering cultural exchange and integration. The political and economic opening of nations inspires filmmakers to tap into diverse markets, audiences, and narratives, resulting in noticeable shifts in the proportion of genres in movie releases. We can look at three examples of such changes in trends.
 
 1. [Chinese Movies/ Cultural revolution](#-1---chinese-movies-and-the-cultural-revolution)
 2. [Japanese Movies/ Post WWII occupation](#-2---japanese-movies-and-post-wwii-occupation)
@@ -398,7 +399,7 @@ The growth of national income facilitated the expansion of cultural industries, 
 
 ### 🍛 3 - Bollywood and the Indian independance
 
-What other great film-making power exists in this globe? Bollywood! Lets see how indian cinematography evolved following the Indian Independence in 1947:
+What other great film-making power exists in this globe? Bollywood! Let's see how indian cinematography evolved following the Indian Independence in 1947:
 
 <br>
 <img src="india.png" width="80%" style="display: block; margin: auto;">
@@ -406,13 +407,13 @@ What other great film-making power exists in this globe? Bollywood! Lets see how
 
 Independence is always accompanied with exacerbated feelings of national pride, social justice, and unity, which are reflected in the movie industry. Bollywood is truly a cultural ambassador, spreading Indian culture, music, and traditions globally. In the 1991, India adopted economic liberalization and opened its economy to global markets. This shift towards globalization is reflected in the second fast increase of Bollywood movies in the 1990s.
 
-We looked at three cases of how globalization shape the movie industry. If we compare the growth between the three of them we see similarities in the development of movie industries in China, Japan, and India during their respective time periods marked by important events.
+We looked at three cases of how globalization shapes the movie industry. If we compare the growth between the three of them we see similarities in the development of movie industries in China, Japan, and India during their respective time periods marked by important events.
 
 <br>
 <img src="exponential.png" width="100%">
 <br>
 
-For each country, a 14-year period—beginning one year before the event of interest—reveals a remarkable trend of exponential growth in movie production. Bollywood, for instance, experienced the fastest growth, with Japanese cinema close behind. Within just four years of Indian Independence and the end of World War II, the proportion of Bollywood and Japanese movies had doubled. What's particularly intriguing is the starting point of these industries. Chinese and Japanese films began with similar proportions, while Bollywood initially accounted for a much smaller share before India’s Independence. This exponential rise of Bollywood underscores how transformative moments in history can ignite creative and cultural revolutions in cinema
+For each country, a 14-year period—beginning one year before the event of interest—reveals a remarkable trend of exponential growth in movie production. Bollywood, for instance, experienced the fastest growth, with Japanese cinema close behind. Within just four years of Indian Independence and the end of World War II, the proportion of Bollywood and Japanese movies had doubled. What's particularly intriguing is the starting point of these industries. Chinese and Japanese films began with similar proportions, while Bollywood initially accounted for a much smaller share before India’s Independence. This exponential rise of Bollywood underscores how transformative moments in history can ignite creative and cultural revolutions in cinema.
 
  If you want to write a movie from a certain country, it could be quite handy to check its history: When did it get its independence? What is its current stance on globalization? 
 
