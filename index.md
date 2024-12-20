@@ -289,18 +289,32 @@ Big success hits are great sources of inspiration, I'm sure you will agree. How 
 
 ### 🪓 1 - Slasher Movies
 
+The emergence of the first slasher movies revolutionized the film industry by introducing a new genre defined by suspense, graphic violence, and psychological tension, paving the way for a wave of subsequent films that capitalized on their popularity and iconic formula that seemed to work so well the first time.
+
 <br>
 <img src="slasher.png"  width="80%" style="display: block; margin: auto;">
 <br>
 
+_Halloween (1978)_ is low-budget film that grossed $70 million, proving the profitability of the genre. Studios quickly hopped on the bandwagon, producing a flood of slasher films to meet audience demand. In the 1980s, the genre is flourishing and the appearance of VHS in the 1980s allowed slasher films to thrive beyond theaters. These movies were inexpensive to produce and highly profitable on home video which explains why their proportion remained quite high for the past years.
+
+<br>
+<img src="slasher expo.jpg"  width="80%" style="display: block; margin: auto;">
+<br>
+
 ### 🤸🏻‍♂️ 2 - Bruce Lee and Martial Arts Films
+
+
+Our favorite street fighter! Bruce Lee’s debut films transformed martial arts cinema, reshaping the genre's place in the film industry. His first major commercial success, _The Big Boss (1971)_, sparked a rapid expansion of martial arts films. The genre’s cost-effectiveness enabled studios to produce numerous films quickly, capitalizing on its growing popularity. The 1970s became the Golden Age of Hong Kong cinema, with studios like _Shaw Brothers_ and _Golden Harvest_ leading the charge and cementing martial arts as a global phenomenon.
 
 <br>
 <img src="bruce lee.png"  width="80%" style="display: block; margin: auto;">
 <br>
 
-Our favorite street fighter!
+<br>
+<img src="bruce expo.jpg"  width="80%" style="display: block; margin: auto;">
+<br>
 
+Once more, we can fit an exponential curve pretty easily to the behavior of the proportion. Its safe to say that great box office hits lead the distribution of their corresponding genres as they set trends and examples, inspiring other writers like you to recreate their success.
 
 <br>
 
@@ -310,23 +324,23 @@ Unlike wars or other singular events, which are time-bound with clearly defined 
 
 To better understand this dynamic, we’ll examine several examples of sociological movements and analyze their effects on movie releases. In cases where specific genres show a sustained rise in popularity, exploring relevant themes and subjects within your film may prove to be a worthwhile endeavor.
 
-1. [LGBT Movies/ Gay rights movements](#️-1---lgbt-movies-and-gay-rights-movements)
+[LGBT Movies/ Gay rights movements](#️-lgbt-movies-and-gay-rights-movements)
 
 <br>
 
-### 🏳️‍🌈 1 - LGBT Movies and Gay rights movements
+### 🏳️‍🌈 LGBT Movies and Gay rights movements
 
 LGBTQ+ representation in cinema is likely tied to the long-term social progress of public opinions which is paced by several notable key milestones, such as the First Pride Marches or legal breakthroughs. It is worth noting if these milestones produce sudden spikes in popularity or contribute to the overall rise over time: we see a noticeble growth after some of the milestones.
 
 <br>
-<img src="lgbt proportion.png"  width="80%" style="display: block; margin: auto;">
+<img src="lgbt proportion.png"  width="100%" style="display: block; margin: auto;">
 <br>
 
 
 Although statistical analysis and model fitting using OLS regression indicate that these keystone events do not result in clear peaks in the number of movies related to the genre, LGBTQ+ representation in cinematography has shown a continuous rise throughout history. This is likely due to the gradual nature of societal and cultural breakthroughs, such as the acceptance of diverse sexualities over time.
 
 <br>
-<img src="model lgbt.png" width="100%">
+<img src="model lgbt.png" width="85%" style="display: block; margin: auto;">
 <br>
 
 This steady progress underscores the importance of cultural and societal shifts that build over time, rather than relying solely on singular events or milestones. As representation becomes more visible and diverse, it not only reflects evolving societal norms but also actively contributes to shaping them, and the film making industry accompanies this change. LGBTQ+ representation is something that continuously gains in popularity, and you’re pretty safe if you choose to do so in your movie.
@@ -380,7 +394,7 @@ The growth of national income facilitated the expansion of cultural industries, 
 
 ### 🍛 3 - Bollywood and the Indian independance
 
-What other great film-makig power exists in this globe? Bollywood! Lets see how indian cinematography evolved following the Indian Independence in 1947:
+What other great film-making power exists in this globe? Bollywood! Lets see how indian cinematography evolved following the Indian Independence in 1947:
 
 <br>
 <img src="india.png" width="80%" style="display: block; margin: auto;">
