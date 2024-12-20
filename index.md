@@ -235,7 +235,7 @@ So lets take a look at technological breakthroughs which bring about changes in 
 Most likely advances in visual techniques brought about a whole new set of horizons for movie producers and writers such as you. 
 
 <br>
-<img src="science fiction.png" width="100%">
+<img src="science fiction.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 The proportion of science fiction movies saw a steep increase starting in the mid-1970s, coinciding with the emergence of the blockbuster era. This growth was likely fueled by the adoption of advanced visual effects techniques, including the introduction of Computer-Generated Imagery (CGI) between 1973 and 1982, as well as the use of motion control cameras and animatronics, which gained prominence in the late 1970s. The continued surge in the 1980s may also be attributed to a renewed public fascination with space exploration, for example by the launch of the Space Shuttle program in 1981.
@@ -248,7 +248,7 @@ The proportion of science fiction movies saw a steep increase starting in the mi
 Let there be color! The first colorized film appeared on the screen in 1902, but it is the invention of technicolor in 1912 that really change the accesibility of producing a colour film. This substractive technique was way less expensive then previous additive techniques used.
 
 <br>
-<img src="black and white.png" width="100%">
+<img src="black and white.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 So the decline of the prevalence of black-and-white movies can be easily explained by the invention of the first technicolor technique in 1916, which was later improved. Progressivly, color films became more affordable and accessible and overtakook black-and-white movies. If you write a black-and-white movie now, you're sure to stand out! Not sure if producers will be happy though.
@@ -261,7 +261,7 @@ So the decline of the prevalence of black-and-white movies can be easily explain
 Before color and CGI, the most obvious influencial change to the industry is probably sound. The introduction of sound in movies became possible with the Vitaphone system invented in 1927. The release of The Jazz Singer, the first movie with dialogue and music, was a turning point. Silent films became rapidly obsolete.
 
 <br>
-<img src="sound tech.png" width="100%">
+<img src="sound tech.png"  width="80%" style="display: block; margin: auto;">
 <br>
 
 The data is pretty straightfoward here. Include sound in your movie; its the safest choice.
@@ -274,7 +274,7 @@ The data is pretty straightfoward here. Include sound in your movie; its the saf
 Big success hits are great sources of inspiration, I'm sure you will agree. How about we see how blockbuster hits catch the attention of other filmmakers and studios eager to replicate their success? One great idea often inspires others to do the same and many hits serve as cinematographical 'touchstones', which define new standards and trends that shape the industry. Lets examine this behavior with our genres and our analysis of trends.
 
 1. [Slasher Movies/ First Slasher Commercial Success](#-1---slasher-movies)
-2. [Martial Arts Movies/ Bruce Lee Success](#-2---bruce-lee-and-martial-arts-films)
+2. [Martial Arts Movies/ Bruce Lee Success](#️-2---bruce-lee-and-martial-arts-films)
 
 
 <br>
@@ -282,13 +282,13 @@ Big success hits are great sources of inspiration, I'm sure you will agree. How 
 ### 🪓 1 - Slasher Movies
 
 <br>
-<img src="slasher.png" width="100%">
+<img src="slasher.png"  width="80%" style="display: block; margin: auto;">
 <br>
 
 ### 🤸🏻‍♂️ 2 - Bruce Lee and Martial Arts Films
 
 <br>
-<img src="bruce lee.png" width="100%">
+<img src="bruce lee.png"  width="80%" style="display: block; margin: auto;">
 <br>
 
 Our favorite street fighter!
@@ -302,7 +302,7 @@ Unlike wars or other singular events, which are time-bound with clearly defined 
 
 To better understand this dynamic, we’ll examine several examples of sociological movements and analyze their effects on movie releases. In cases where specific genres show a sustained rise in popularity, exploring relevant themes and subjects within your film may prove to be a worthwhile endeavor.
 
-1. [LGBT Movies/ Gay rights movements](#-1---lgbt-movies-and-gay-rights-movements)
+1. [LGBT Movies/ Gay rights movements](#️-1---lgbt-movies-and-gay-rights-movements)
 2. [Western Movies/ Indian Civil Rights Act](#-2---western-movies-and-indian-civil-rights-act)
 
 
@@ -313,7 +313,7 @@ To better understand this dynamic, we’ll examine several examples of sociologi
 LGBTQ+ representation in cinema is likely tied to the long-term social progress of public opinions which is paced by several notable key milestones, such as the First Pride Marches or legal breakthroughs. It is worth noting if these milestones produce sudden spikes in popularity or contribute to the overall rise over time: we see a noticeble growth after some of the milestones.
 
 <br>
-<img src="lgbt proportion.png" width="100%">
+<img src="lgbt proportion.png"  width="80%" style="display: block; margin: auto;">
 <br>
 
 
@@ -354,7 +354,7 @@ Chinese movies are intresting to look into because cinema was heavily used by th
 While traditional theater, music, and literature were suppressed or destroyed during the Cultural Revolution, the movie industry was actively promoted. Films such as _The Red Detachment of Women_ (1970) and _Taking Tiger Mountain by Strategy_ (1970) were mandated for public viewing, becoming some of the most widely screened and influential productions of the time.
 
 <br>
-<img src="china.png" width="100%">
+<img src="china.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 We have, as expected, a drastic peak in the 60s. The end of the Cultural Revolution in 1976 marked the decline of extreme political control over artistic expression. Filmmakers probably gained more freedom to explore diverse narratives at that point. 
@@ -369,7 +369,7 @@ Deng Xiaoping also initiated an Opening-up Policy in 1978 to welcome foreign inv
 Now looking at the close neighbors: Japan. This is a country which was also quite shaked by the War. Post-WWII, Japan experienced rapid industrial growth and urbanization during the U.S. occupation (1945–1952) and beyond. Cinema was greatly appreciated in american culture and it is quite unsurprising that the art find its place in japanese culture quite fast.
 
 <br>
-<img src="japan.png" width="100%">
+<img src="japan.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 The growth of national income facilitated the expansion of cultural industries, including film production. Japanese filmmakers utilized cinema to delve into themes of loss, recovery, and societal transformation, mirroring the nation's post-WWII journey. Films also served as a form of soft power, projecting Japanese culture and values onto the global stage.
@@ -382,7 +382,7 @@ The growth of national income facilitated the expansion of cultural industries, 
 What other great film-makig power exists in this globe? Bollywood! Lets see how indian cinematography evolved following the Indian Independence in 1947:
 
 <br>
-<img src="india.png" width="100%">
+<img src="india.png" width="80%" style="display: block; margin: auto;">
 <br>
 
 Independence is always accompanied with exacerbated feelings of national pride, social justice, and unity, which are reflected in the movie industry. Bollywood is truly a cultural ambassador, spreading Indian culture, music, and traditions globally. In the 1991, India adopted economic liberalization and opened its economy to global markets. This shift towards globalization is reflected in the second fast increase of Bollywood movies in the 1990s.
