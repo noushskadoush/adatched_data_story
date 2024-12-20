@@ -311,8 +311,6 @@ Unlike wars or other singular events, which are time-bound with clearly defined 
 To better understand this dynamic, we’ll examine several examples of sociological movements and analyze their effects on movie releases. In cases where specific genres show a sustained rise in popularity, exploring relevant themes and subjects within your film may prove to be a worthwhile endeavor.
 
 1. [LGBT Movies/ Gay rights movements](#️-1---lgbt-movies-and-gay-rights-movements)
-2. [Western Movies/ Indian Civil Rights Act](#-2---western-movies-and-indian-civil-rights-act)
-
 
 <br>
 
@@ -332,11 +330,6 @@ Although statistical analysis and model fitting using OLS regression indicate th
 <br>
 
 This steady progress underscores the importance of cultural and societal shifts that build over time, rather than relying solely on singular events or milestones. As representation becomes more visible and diverse, it not only reflects evolving societal norms but also actively contributes to shaping them, and the film making industry accompanies this change. LGBTQ+ representation is something that continuously gains in popularity, and you’re pretty safe if you choose to do so in your movie.
-
-
-<br>
-
-### 🤠 2 - Western Movies and Indian Civil Rights Act
 
 
 
